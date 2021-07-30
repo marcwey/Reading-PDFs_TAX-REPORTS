@@ -4,6 +4,8 @@ import os
 import pandas as pd
 import re
 
+print('Hola mundo')
+
 #Folder containing the PDFs
 path = r'D:/PROJECTS_REPOSITORY/REPORTS/INPUT/'
 
